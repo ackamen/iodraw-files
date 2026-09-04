@@ -65,7 +65,7 @@
           <mxGeometry x="310" y="730" width="50" height="180" as="geometry" />
         </mxCell>
         <mxCell id="-HdpW_p_UYSwEgQAmDKo-32" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="910" width="20" height="20" as="geometry" />
+          <mxGeometry x="40" y="610" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
